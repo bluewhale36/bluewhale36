@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Oracle-%23F80000?logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Java-%23F80000?logoColor=white"> <img src="https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-%231572B6?logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white">
 
 
-🖥️<b>Wanna see more 'bout me?</b> 👉 <a href="https://bluewhale332.notion.site/f8ad3b8d98294351b659ea96b8843420?v=86d179ea89b1417c96487da7f5037928&pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000?logo=Notion&logoColor=white"></a>
+🖥️<b>Wanna see more 'bout me?</b> 👉 <a href="https://bluewhale332.notion.site/f8ad3b8d98294351b659ea96b8843420?v=86d179ea89b1417c96487da7f5037928&pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000?logo=Notion&logoColor=white"></a> <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white">
