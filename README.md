@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 🖥️ <b>Wanna see more 'bout me?</b> 👉 <a href="https://bluewhale332.notion.site/f8ad3b8d98294351b659ea96b8843420?v=86d179ea89b1417c96487da7f5037928&pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000?logo=Notion&logoColor=white"></a> <!--<img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white">-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:6495ED&height=200&section=footer&text=hello&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:6495ED&height=200&section=footer&text=&fontSize=30" />
