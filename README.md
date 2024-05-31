@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 <h3>✏️ Stacks</h3>
 
-<img src="https://img.shields.io/badge/Oracle-%23F80000?logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Java-%23F80000?logoColor=white"> <img src="https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-%231572B6?logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-%230769AD?logo=jQuery&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-%23F80000?logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Java-%23F80000?logoColor=white"> <img src="https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-%231572B6?logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-%230769AD?logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/Spring-%236DB33F?logo=Spring&logoColor=white">
+
 
 <br>
 
