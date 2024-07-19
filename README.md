@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 
 ## More
 
-🖥️ <b>Wanna see more 'bout me?(Kr)(Lecture Blogs)</b> 👉 <a href="https://bluewhale332.notion.site/1239a67f45914692b8cbc3fad59222a4?v=8c7231ef2d1c4c8ca82165869bf6983b&pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000?logo=Notion&logoColor=white"></a> <!--<img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white">-->
+🖥️ <b>Wanna see more 'bout me?(Kr)(Lecture Blogs)</b> 👉 <a href="https://bluewhale332.notion.site/1239a67f45914692b8cbc3fad59222a4?v=8c7231ef2d1c4c8ca82165869bf6983b&pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000?logo=Notion&logoColor=white"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:6495ED&height=200&section=footer&text=&fontSize=30" />
