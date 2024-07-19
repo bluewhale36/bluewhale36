@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
 <!--
 **bluewhale36/bluewhale36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm bluewhale36🐳
+<h1 align="center">I'm bluewhale36🐳</h1>
+
 #### 🌱 I’m currently learning Spring MVC
 #### 📫 How to reach me: kmsuhyn36@gmail.com
 #### 🌏 Languages: Korean & English
@@ -63,5 +64,12 @@ Here are some ideas to get you started:
 ## More
 
 🖥️ <b>Wanna see more 'bout me?(Kr)(Lecture Blogs)</b> 👉 <a href="https://bluewhale332.notion.site/1239a67f45914692b8cbc3fad59222a4?v=8c7231ef2d1c4c8ca82165869bf6983b&pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000?logo=Notion&logoColor=white"></a>
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=momentumSNS&theme=dark)](https://github.com/bluewhale36/momentumSNS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluewhale36&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluewhale36&show_icons=true&theme=dark)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:6495ED&height=200&section=footer&text=&fontSize=30" />
