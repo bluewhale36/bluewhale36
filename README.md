@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=momentumSNS&theme=dark)](https://github.com/bluewhale36/momentumSNS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=momentum-sns&theme=dark)](https://github.com/bluewhale36/momentum-sns)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluewhale36&layout=compact&theme=dark)](https://github.com/bluewhale36)
 
 
