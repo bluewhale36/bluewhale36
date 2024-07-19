@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">I'm bluewhale36🐳</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Arsenal+SC&weight=700&size=23&duration=3000&pause=3500&color=6495ED&background=00000000&center=true&vCenter=true&random=true&width=500&lines=Welcome+to+Bluewhale36's+Github!;Experience+our+social+media+at+MOMENTUM-SNS!;If+you+like+pets%2C+please+visit+PET-INFO-SYSTEM!;Check+out+my+NOTION+to+see+my+BLOGS!" alt="Typing SVG" />
+  </a>
+</div>
 
 #### 🌱 I’m currently learning Spring MVC
 #### 📫 How to reach me: kmsuhyn36@gmail.com
@@ -65,7 +69,7 @@ Here are some ideas to get you started:
 
 🖥️ <b>Wanna see more 'bout me?(Kr)(Lecture Blogs)</b> 👉 <a href="https://bluewhale332.notion.site/1239a67f45914692b8cbc3fad59222a4?v=8c7231ef2d1c4c8ca82165869bf6983b&pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000?logo=Notion&logoColor=white"></a>
 
-<br>
+<br><br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=momentumSNS&theme=dark)](https://github.com/bluewhale36/momentumSNS)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluewhale36&layout=compact&theme=dark)](https://github.com/bluewhale36)
