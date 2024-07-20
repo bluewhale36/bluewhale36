@@ -10,6 +10,8 @@
 
 <a href="https://github.com/bluewhale36"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluewhale36&theme=dark" /></a>
 
+<br/>
+
 - 🌱 I’m currently learning Spring MVC
 - 📫 How to reach me: kmsuhyn36@gmail.com
 - 🌏 Languages: Korean & English
