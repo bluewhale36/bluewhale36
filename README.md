@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<a href="https://github.com/bluewhale36"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluewhale36&layout=donut&theme=dark" /></a>
+<a href="https://github.com/bluewhale36"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluewhale36&layout=donut&theme=github_dark" /></a>
 
 <br/>
 
