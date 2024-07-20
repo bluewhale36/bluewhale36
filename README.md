@@ -61,7 +61,7 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluewhale36&layout=compact&theme=dark)](https://github.com/bluewhale36)
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:6495ED&height=200&section=footer&text=&fontSize=30" />
