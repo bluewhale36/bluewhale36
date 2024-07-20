@@ -55,9 +55,9 @@
 ## My Top Projects
 
 <p align="center">
-  <a href="https://github.com/bluewhale36/momentum-sns"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=momentum-sns&theme=dark"/></a>
-  <a href="https://github.com/bluewhale36/nurse-chart-program"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=nurse-chart-program&theme=dark"/></a>
-  <a href="https://github.com/bluewhale36/pet-info-system"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=pet-info-system&theme=dark"/></a>
+  <a href="https://github.com/bluewhale36/momentum-sns"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=momentum-sns"/></a>
+  <a href="https://github.com/bluewhale36/nurse-chart-program"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=nurse-chart-program"/></a>
+  <a href="https://github.com/bluewhale36/pet-info-system"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=pet-info-system"/></a>
 </p>
 
 
