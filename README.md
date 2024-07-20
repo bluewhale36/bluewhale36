@@ -10,12 +10,12 @@
 
 <a href="https://github.com/bluewhale36"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluewhale36&layout=donut&theme=dark" /></a>
 
-<br><br>
+<br/>
 
-🌱 I’m currently learning Spring MVC <br>
-📫 How to reach me: kmsuhyn36@gmail.com <br>
-🌏 Languages: Korean & English <br>
-👨‍💻 I'm currently using MacOS <br>
+🌱 I’m currently learning Spring MVC <br/>
+📫 How to reach me: kmsuhyn36@gmail.com <br/>
+🌏 Languages: Korean & English <br/>
+👨‍💻 I'm currently using MacOS <br/>
 🖥️ My lecture blogs 👉 <a href="https://bluewhale332.notion.site/1239a67f45914692b8cbc3fad59222a4?v=8c7231ef2d1c4c8ca82165869bf6983b&pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000?logo=Notion&logoColor=white"/></a>
 
 
