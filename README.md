@@ -56,8 +56,8 @@
 
 <p align="center">
   <a href="https://github.com/bluewhale36/momentum-sns"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=momentum-sns&theme=dark"/></a>
-  <a href="https://github.com/bluewhale36/nurse-chart-program"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=nurse-chart-program&theme=dark"/></a>
   <a href="https://github.com/bluewhale36/pet-info-system"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=pet-info-system&theme=dark"/></a>
+  <a href="https://github.com/bluewhale36/nurse-chart-program"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=bluewhale36&repo=nurse-chart-program&theme=dark"/></a>
 </p>
 
 <br><br>
