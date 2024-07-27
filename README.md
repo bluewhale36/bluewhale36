@@ -26,27 +26,35 @@
 <div align="center">
   <h3>DBMS</h3>
   <div>
-    <img src="https://img.shields.io/badge/Oracle-%23F80000?logo=Oracle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MariaDB-%23003545?logo=MariaDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
   </div>
   <h3>FRONT-END</h3>
   <div>
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-%231572B6?logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/jQuery-%230769AD?logo=jQuery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"/>
   </div>
   <h3>BACK-END</h3>
   <div>
-    <img src="https://img.shields.io/badge/Java-%23F80000?logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-%236DB33F?logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-F80000"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
   </div>
   <h3>DEPLOYMENT</h3>
   <div>
     <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+  </div>
+  <h3>ETC</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Colima-9BC82A?"/>
   </div>
 </div>
 
