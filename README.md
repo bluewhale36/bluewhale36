@@ -49,10 +49,15 @@
       <td>
         <img src="https://img.shields.io/badge/Java-F80000"/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring Security-6DB33F?logo=springsecurity&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <th>FRAMEWORKS</th>
+      <td>
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring Security-6DB33F?logo=springsecurity&logoColor=white"/>
       </td>
     </tr>
     <tr>
