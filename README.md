@@ -12,7 +12,7 @@
 
 <br/>
 
-🌱 I’m currently learning Spring MVC <br/>
+🌱 I’m currently learning Spring Boot <br/>
 📫 How to reach me: kmsuhyn36@gmail.com <br/>
 🌏 Languages: Korean & English <br/>
 👨‍💻 I'm currently using MacOS <br/>
