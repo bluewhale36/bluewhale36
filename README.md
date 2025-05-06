@@ -12,11 +12,11 @@
 
 <br/>
 
-🌱 I’m currently learning Spring Boot <br/>
+🏫 I’m currently studying at Baekseok Culture University <br/>
 📫 How to reach me: kmsuhyn36@gmail.com <br/>
 🌏 Languages: Korean & English <br/>
 👨‍💻 I'm currently using MacOS <br/>
-🖥️ My lecture blogs 👉 <a href="https://bluewhale332.notion.site/My-Blogs-13cef0e868f980d8982deb555987359e?pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000?logo=Notion&logoColor=white"/></a>
+🖥️ Organizing things w/ <a href="#"><img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/></a>
 
 
 <br>
