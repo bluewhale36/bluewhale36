@@ -51,6 +51,7 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -66,6 +67,12 @@
         <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <th>OS</th>
+      <td>
+        <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=flat&logo=rockylinux&logoColor=white"/>
       </td>
     </tr>
     <tr>
