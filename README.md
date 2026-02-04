@@ -26,25 +26,6 @@
 <div align="center">
   <table>
     <tr>
-      <th>DBMS</th>
-      <td>
-        <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <th>FRONT-END</th>
-      <td>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JSP-F80000"/>
-        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
       <th>BACK-END</th>
       <td>
         <img src="https://img.shields.io/badge/Java-F80000"/>
@@ -62,6 +43,30 @@
       </td>
     </tr>
     <tr>
+      <th>DBMS</th>
+      <td>
+        <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <th>FRONT-END</th>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <th>TEMPLATE-ENGINE</th>
+      <td>
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JSP-F80000"/>
+      </td>
+    </tr>
+    <tr>
       <th>DEPLOYMENT</th>
       <td>
         <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
@@ -73,6 +78,13 @@
       <th>OS</th>
       <td>
         <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=flat&logo=rockylinux&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <th>API</th>
+      <td>
+        <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google Sheets-34A853?logo=googlesheets&logoColor=white"/>
       </td>
     </tr>
     <tr>
